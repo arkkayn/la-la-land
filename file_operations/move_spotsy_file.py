@@ -12,7 +12,8 @@ def sort_files(source_folder, destination_folder, dry_run=False):
         'Eval_Consent': 'eval_consent',
         'PWN': 'PWN',
         'POC': 'POC',
-        'speech_eval': 'speech_eval'
+        'speech_eval': 'speech_eval',
+        '_SEC_': 'SEC'
     }
 
     # List all files in the source directory
