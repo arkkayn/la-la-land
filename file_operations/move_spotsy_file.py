@@ -28,7 +28,7 @@ def sort_files(source_folder, destination_root, school_year, dry_run=True):
         ' SPS': 'SPS',
         '_Eligibility': 'Eligibility',
         '_Screening': 'Screening',
-        '_Observation': 'bservation'
+        '_Observation': 'Observation'
     }
 
     # Build year folder under spotsy
