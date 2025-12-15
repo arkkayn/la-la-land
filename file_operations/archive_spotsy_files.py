@@ -23,10 +23,12 @@ def archive_files(source_folder, archive_root, school_year, dry_run=True):
         'Eval_Consent',
         'PWN',
         'POC',
-        'speech_eval',
+        'Speech_Eval',
         '_SEC_',
         ' SPS',
-        '_Eligibility'
+        '_Eligibility',
+        '_Screening',
+        '_Observation'
     ]
 
     # Build the archive folder for the year

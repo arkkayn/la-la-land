@@ -26,7 +26,9 @@ def sort_files(source_folder, destination_root, school_year, dry_run=True):
         'Speech_Eval': 'speech_eval',
         '_SEC_': 'SEC',
         ' SPS': 'SPS',
-        '_Eligibility': 'eligibility'
+        '_Eligibility': 'Eligibility',
+        '_Screening': 'Screening',
+        '_Observation': 'bservation'
     }
 
     # Build year folder under spotsy
